@@ -173,7 +173,7 @@
 
 ## 6. Концептуальная модель данных
 
-![](diagrams/images/dgrm.png)
+![](diagrams/images/image1.png)
 
 ## 7. Оценка качества исходных данных
 
